@@ -1,4 +1,4 @@
-# Gradient Origin Network implementation for Tensorflow 2.0
+# Gradient Origin Network for Tensorflow 2.0
 Tensorflow 2.0 port of [Gradient Origin Networs](https://arxiv.org/abs/2007.02798) paper from the original author's implementation found at - https://github.com/cwkx/GON.
 
 # Usage
