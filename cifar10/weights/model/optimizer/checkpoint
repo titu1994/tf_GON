@@ -1,0 +1,4 @@
+model_checkpoint_path: "optimizer-0"
+all_model_checkpoint_paths: "optimizer-0"
+all_model_checkpoint_timestamps: 1594634312.4686818
+last_preserved_timestamp: 1594610388.6831007
