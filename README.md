@@ -13,6 +13,10 @@ Simply run `cifar10_train.py` which takes around 12 - 14 hours on a good GPU to 
 
 To evaluate results with pre-trained model, run `cifar10_eval.py`. It will create images under `cifar10/images/*_eval.png`
 
+<p align="center">
+  <img src="https://github.com/titu1994/tf_GON/blob/master/images/CIFAR10_reconstruction.gif?raw=true">
+</p>
+
 # Requirements
 `pip install -r requirements.txt`.
 
